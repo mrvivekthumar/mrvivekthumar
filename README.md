@@ -1,6 +1,11 @@
 ### *<ins><div align="center">Hey Everyone 🖐️, I am Vivek Thumar </div></ins>*  
   
 
+<div align="right">
+<img src="https://wallpapercave.com/dwp1x/wp6222547.png" align="right" height="170" width="250" />
+</div>  
+  
+
 - 🌱 I’m currently learning Java & DSA  
   
 
@@ -75,7 +80,13 @@
 
 
 ## Recent Blog Posts  
-![Profile views counter](https://komarev.com/ghpvc/?username=mrvivekthumar&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mrvivekthumar&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
   
 
 <br/>  
@@ -93,4 +104,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
