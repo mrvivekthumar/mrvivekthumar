@@ -7,8 +7,7 @@
 I find joy in complex challenges, seeking out innovative solutions, and constantly expanding my skill set. Beyond coding, I deeply value community collaboration and contributing to the collective knowledge of developers worldwide.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue) ![Repository Views](https://visitor-badge.glitch.me/badge?page_id=mrvivekthumar.mrvivekthumar)
-
+![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue)
 
 
 ## GitHub Stats
