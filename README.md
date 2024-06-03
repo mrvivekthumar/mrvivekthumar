@@ -5,13 +5,15 @@
 Hi, I'm **Vivek Thumar**. I'm a passionate developer focused on building web applications and constantly learning new technologies. I have experience in various programming languages and frameworks, and I enjoy tackling challenging projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue)
-![Repository Views](https://visitor-badge.glitch.me/badge?page_id=mrvivekthumar.mrvivekthumar)
 
 ## GitHub Stats
 
-![Vivek Thumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrvivekthumar&show_icons=true&theme=calm)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekthumar&layout=compact&theme=calm)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mrvivekthumar&theme=calm)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrvivekthumar&show_icons=true&theme=calm" alt="Vivek Thumar's GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekthumar&layout=compact&theme=calm" alt="Top Languages" style="width: 48%;">
+</div>
+
 
 ## Connect with Me
 
@@ -38,9 +40,5 @@ Hi, I'm **Vivek Thumar**. I'm a passionate developer focused on building web app
 ## Contact Me
 
 Feel free to reach out if you have any questions or just want to connect. You can find me on [LinkedIn](https://www.linkedin.com/in/mrvivekthumar), [LeetCode](https://leetcode.com/mrvivekthumar), and [Twitter](https://twitter.com/mrvivekthumar).
-
----
-
-*Note: The image URLs and links to social media need to be updated with your actual URLs.*
 
 Thank you for visiting my profile!
