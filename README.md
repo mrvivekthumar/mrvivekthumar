@@ -1,10 +1,15 @@
 # Welcome to Vivek Thumar's GitHub Profile! 👋
 
-## Welcome
+## About Me
 
-Hi, I'm **Vivek Thumar**. I'm a passionate developer focused on building web applications and constantly learning new technologies. I have experience in various programming languages and frameworks, and I enjoy tackling challenging projects.
+👨‍💻 Hi there! I'm **Vivek Thumar**, a dedicated developer with a passion for crafting web solutions and exploring the ever-evolving world of technology. 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue)
+I find joy in complex challenges, seeking out innovative solutions, and constantly expanding my skill set. Beyond coding, I deeply value community collaboration and contributing to the collective knowledge of developers worldwide.
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue) ![Repository Views](https://visitor-badge.glitch.me/badge?page_id=mrvivekthumar.mrvivekthumar)
+
+
 
 ## GitHub Stats
 
@@ -15,11 +20,14 @@ Hi, I'm **Vivek Thumar**. I'm a passionate developer focused on building web app
 </div>
 
 
+
 ## Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrvivekthumar)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mrvivekthumar)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrvivekthumar)
+
+
 
 ## Skills
 
@@ -36,6 +44,8 @@ Hi, I'm **Vivek Thumar**. I'm a passionate developer focused on building web app
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
 
 ## Contact Me
 
