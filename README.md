@@ -8,10 +8,10 @@ I find joy in complex challenges, seeking out innovative solutions, and constant
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue)
 
-## 
+## *This is only for You. Hidden Hack, Keep it Hidden*
 
 [![Check Out My Latest YouTube Video](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wGRF3GQ4Wdk?si=k1LrabPCzO-FX2sz)  
-*[This is for you my one of the best freind]*
+
 
 ## GitHub Stats
 
