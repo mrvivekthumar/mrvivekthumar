@@ -6,13 +6,6 @@
 
 I find joy in complex challenges, seeking out innovative solutions, and constantly expanding my skill set. Beyond coding, I deeply value community collaboration and contributing to the collective knowledge of developers worldwide.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrvivekthumar&color=blue)
-
-## *This is only for You. Hidden Hack, Keep it Hidden*
-
-[![Check Out My Latest YouTube Video](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wGRF3GQ4Wdk?si=k1LrabPCzO-FX2sz)  
-
-
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -22,13 +15,7 @@ I find joy in complex challenges, seeking out innovative solutions, and constant
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mrvivekthumar?theme=light&font=Roboto&ext=heatmap)
-
-## LeetCode Badge
-
-![LeetCode](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode&query=totalSolved&suffix=%20solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fmrvivekthumar)
-
-
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/mrvivekthumar?theme=calm&show=solved,unsolved)
 
 ## 🌍 Connect with Me
 
@@ -57,7 +44,7 @@ I find joy in complex challenges, seeking out innovative solutions, and constant
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🎯 Level Up: OOP and Data Structures & Algorithms
+### 🎯 OOP and Data Structures & Algorithms
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -65,20 +52,14 @@ I find joy in complex challenges, seeking out innovative solutions, and constant
 
 ## 💬 Connect with Me
 
-Let's connect and chat! Find me on:
+Let's connect! Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mrvivekthumar)
 - [LeetCode](https://leetcode.com/mrvivekthumar)
 - [Twitter](https://twitter.com/mrvivekthumar)
 
-Feel free to reach out if you have any questions or just want to connect.
+Feel free to reach out if you have any questions.
 
-## 📬 Professional Work
+## 📬 Work
 
-For business work or professional collaborations, feel free to reach out via email:
-
-[mrvivekthumar@gmail.com](mailto:mrvivekthumar@gmail.com)
-
-I look forward to hearing from you regarding any professional opportunities or work.
-
-Thank you for visiting my profile!
+I look forward to hearing from you regarding any opportunities for work.
