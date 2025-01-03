@@ -15,7 +15,12 @@ I find joy in complex challenges, seeking out innovative solutions, and constant
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/mrvivekthumar?theme=calm&show=solved,unsolved)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mrvivekthumar?theme=light&font=Roboto&ext=heatmap)
+
+## LeetCode Badge
+
+![LeetCode](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode&query=totalSolved&suffix=%20solved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fmrvivekthumar)
+
 
 ## 🌍 Connect with Me
 
