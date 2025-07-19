@@ -63,23 +63,10 @@ I'm a passionate **Full Stack Developer** with a strong foundation in modern web
 
 ## 🎯 Current Focus
 
-- 🔥 Building full-stack applications with **MERN Stack**
 - 📚 Learning **System Design** and **Microservices Architecture**
 - 🧠 Solving **Data Structures & Algorithms** problems daily
 - 🌐 Contributing to **Open Source** projects
 - 📱 Exploring **Mobile Development** with React Native
-
-## 🌟 Featured Projects
-
-### 🚀 [Project Name 1](https://github.com/mrvivekthumar/project1)
-- **Tech Stack:** React, Node.js, MongoDB, Express
-- **Description:** Brief description of what this project does and its key features
-- **Features:** Authentication, Real-time updates, Responsive design
-
-### 🚀 [Project Name 2](https://github.com/mrvivekthumar/project2)
-- **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL
-- **Description:** Another project showcasing different technologies
-- **Features:** Server-side rendering, Database integration, Modern UI
 
 ## 📈 Activity Graph
 
@@ -89,7 +76,6 @@ I'm a passionate **Full Stack Developer** with a strong foundation in modern web
 
 ## 🎖️ Achievements
 
-- 🏅 **500+** Problems solved on LeetCode
 - 🌟 **Active contributor** to open-source projects
 - 🚀 **Built and deployed** multiple full-stack applications
 - 📚 **Continuous learner** with focus on modern web technologies
