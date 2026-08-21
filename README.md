@@ -47,7 +47,7 @@ resource "engineer" "vivek_thumar" {
  
 <br/>
 
-## currently deploying
+## terraform apply
  
 ```
 +---------------------------------------------------------------+
