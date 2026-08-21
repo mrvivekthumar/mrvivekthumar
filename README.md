@@ -72,37 +72,6 @@ resource "engineer" "vivek_thumar" {
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Infra
-AWS · Terraform · Kubernetes · Docker
-
-### 🔁 CI/CD
-GitHub Actions · Jenkins · OIDC Auth
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Backend
-Java 21 · Spring Boot 3 · Kafka · PostgreSQL
-
-### 📊 Observability
-CloudWatch · Prometheus · Grafana
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Most people optimize for one layer of the stack. I optimize for the seams between them — that's where systems actually break.*
-
-</div>
-
-<br/>
-
 ## 🛠️ Pinned Work
 
 <table>
