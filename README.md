@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:0F172A&height=200&section=header&text=Vivek%20Thumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Backend%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0891B2&center=true&vCenter=true&width=650&lines=I+ship+code+%E2%80%94+and+build+what+it+runs+on;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Java+%2F+Spring+Boot+Backend+Engineering;Currently%3A+13%2B-module+AWS+infra+on+Terraform" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0891B2&center=true&vCenter=true&width=650&lines=I+ship+code+%E2%80%94+and+build+what+it+runs+on;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Java+%2F+Spring+Boot+Backend+Engineering;" />
 
 <br/>
 
