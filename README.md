@@ -10,7 +10,15 @@
 [![Gmail](https://img.shields.io/badge/-mrvivekthumar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrvivekthumar@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-mrvivekthumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mrvivekthumar)
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0891B2&height=100&section=footer" width="100%"/>
+
+**"Code is like humor. When you have to explain it, it's bad."** — Cory House
+
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=mrvivekthumar&label=Profile+Views&color=0891B2&style=for-the-badge" />
+
 
 </div>
 
@@ -19,6 +27,40 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+
+## terraform plan
+ 
+```hcl
+resource "engineer" "vivek_thumar" {
+  role         = "DevOps / Cloud / Backend Engineer"
+  focus        = ["AWS", "Terraform", "Kubernetes", "CI/CD"]
+  builds_on    = "seams between layers - infra, pipeline, and the app running on top"
+  availability = "open_to_work"
+  status       = "actively_deploying"
+}
+ 
+# Plan: 1 to add, 0 to change, 0 to destroy.
+# vivek_thumar.status: Creating...
+# vivek_thumar.status: Creation complete after 3 years [id: mrvivekthumar]
+```
+ 
+<br/>
+
+## currently deploying
+ 
+```
++---------------------------------------------------------------+
+| PIPELINE: career-growth                     STATUS: RUNNING   |
++---------------------------------------------------------------+
+| [ ] Completed     Certified Solution Associate Arachitect     |
+| [ ] loading       Exam of SAA-C03                             |
+| [>] Currently     Kubernetes - CKA preparation                |
+| [x] Future        Microsoft Azure Administrator  AZ-104       |
++---------------------------------------------------------------+
+```
+ 
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -56,19 +98,6 @@ CloudWatch · Prometheus · Grafana
 <div align="center">
 
 *Most people optimize for one layer of the stack. I optimize for the seams between them — that's where systems actually break.*
-
-</div>
-
-<br/>
-
-## 🚀 Building Right Now
-
-<div align="center">
-
-🏗️ **CI-CD-Terraform** — 13+ module AWS codebase, dual dev/prod via Terraform workspaces, SHA-tagged zero-downtime deploys
-☸️ Going deep on **Kubernetes** — CKA prep + real platform-engineering practice
-🌐 Learning **Azure (AZ-104)** to go multi-cloud
-💼 **Open to DevOps / Cloud / Platform Engineering roles**
 
 </div>
 
@@ -156,9 +185,18 @@ Full-stack movie discovery app built on the TMDB API.
 
 <br/>
 
+
+## Deploy Log
+
+<br/>
+
+```terraform
+$ terraform apply -auto-approve
+```
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0891B2&height=100&section=footer" width="100%"/>
+  
+Apply complete.
 
-**"Code is like humor. When you have to explain it, it's bad."** — Cory House
-
+<b><I>Reach out — always open to interesting infra problems.</b> </I>
 </div>
